@@ -25,6 +25,7 @@ I documented the function purpose in docstrings. The processing functions are al
 3. Code Readability
 I noted that I changed the original loops to list comprehensions and had more descriptive variable names. These changes reduced the code length and made it easier to understand without losing its functionality
 
-**Testing and Verification** I ran the updated program in VS Code and checked that it was giving the same output as the original program, with no error. Processed Numbers: [3, 4, 9, 8, 15, 12, 21] 
+**Testing & Verification
+I ran the updated program in VS Code and checked that it was giving the same output as the original program, with no error. Processed Numbers: [3, 4, 9, 8, 15, 12, 21] 
 Processed Strings: apple BANANA kiwi GRAPEFRUIT CHERRY 
 The changes were overall, and solved the three original issues, as well as making the code more readable, documented and maintainable.
